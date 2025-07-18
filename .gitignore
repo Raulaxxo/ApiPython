@@ -1,4 +1,4 @@
 __pycache__/
 *.pyc
-app/storage.json
-src/venv/
+src/app/storage.json
+src/app/venv/
