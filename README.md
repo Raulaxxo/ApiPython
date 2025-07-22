@@ -79,6 +79,3 @@ La carpeta `infra/terraform/` contiene archivos para desplegar recursos en la nu
 
 ## Autor
 - Raulaxxo
-
-## Licencia
-MIT
